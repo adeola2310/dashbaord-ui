@@ -1,0 +1,14 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/base";
+
+.app{
+  display: grid;
+  grid-template-areas:
+""
+;
+}
+
+.header{
+  grid-area: header;
+  padding: 5px;
+}

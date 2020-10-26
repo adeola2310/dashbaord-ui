@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+body {
+  font-size: 1rem;
+  background-color: #bdbdbd;
+  position: relative;
+  overflow-x: hidden;
+}
